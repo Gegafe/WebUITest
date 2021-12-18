@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UyABSS7xRdwx9rRRO+N9ujf2qR8Rs/bFho4/lqaDeXSGCiQHfonw4Gh2Uk7CIkdTzib7K8otZ/APVTF19wbdcw==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\WebUITest\\WebUITest\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gera\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Gera\\.nuget\\packages\\selenium.webdriver\\4.1.0\\selenium.webdriver.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

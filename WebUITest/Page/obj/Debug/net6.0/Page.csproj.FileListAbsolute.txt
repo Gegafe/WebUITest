@@ -1,0 +1,16 @@
+C:\Repos\WebUITest\WebUITest\Page\bin\Debug\net6.0\LocalDriver\chromedriver.exe
+C:\Repos\WebUITest\WebUITest\Page\bin\Debug\net6.0\Page.deps.json
+C:\Repos\WebUITest\WebUITest\Page\bin\Debug\net6.0\Page.dll
+C:\Repos\WebUITest\WebUITest\Page\bin\Debug\net6.0\ref\Page.dll
+C:\Repos\WebUITest\WebUITest\Page\bin\Debug\net6.0\Page.pdb
+C:\Repos\WebUITest\WebUITest\Page\bin\Debug\net6.0\Core.dll
+C:\Repos\WebUITest\WebUITest\Page\bin\Debug\net6.0\Core.pdb
+C:\Repos\WebUITest\WebUITest\Page\obj\Debug\net6.0\Page.csproj.AssemblyReference.cache
+C:\Repos\WebUITest\WebUITest\Page\obj\Debug\net6.0\Page.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\WebUITest\WebUITest\Page\obj\Debug\net6.0\Page.AssemblyInfoInputs.cache
+C:\Repos\WebUITest\WebUITest\Page\obj\Debug\net6.0\Page.AssemblyInfo.cs
+C:\Repos\WebUITest\WebUITest\Page\obj\Debug\net6.0\Page.csproj.CoreCompileInputs.cache
+C:\Repos\WebUITest\WebUITest\Page\obj\Debug\net6.0\Page.csproj.CopyComplete
+C:\Repos\WebUITest\WebUITest\Page\obj\Debug\net6.0\Page.dll
+C:\Repos\WebUITest\WebUITest\Page\obj\Debug\net6.0\ref\Page.dll
+C:\Repos\WebUITest\WebUITest\Page\obj\Debug\net6.0\Page.pdb
